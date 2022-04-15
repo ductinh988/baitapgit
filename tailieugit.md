@@ -20,8 +20,8 @@
 
 - ***git init**: tạo ra repository trong máy 
 - **git clone** lấy trên mạng về .
-- **git pull:**pull code từ trên mạng về để đồng bộ với máy
-- **git add:**hêm các file thêm mới hoặc được chỉnh sửa vào repo trong máy
+- **git pull:** pull code từ trên mạng về để đồng bộ với máy
+- **git add:** thêm các file thêm mới hoặc được chỉnh sửa vào repo trong máy
 - **git commit**: commit lên
 - **git push:** đồng bộ code từ máy lên mạng
 - **git log:** kiểm tra lịch sử commit
